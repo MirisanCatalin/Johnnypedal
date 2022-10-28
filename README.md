@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johnnypedal
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Python and many others
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
